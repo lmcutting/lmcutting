@@ -7,7 +7,7 @@
 I'm still learning.
 
 #### About Me
-* 🖋 **Working On:** Master's of Science in Data Analytics (25%)
+* 🖋 **Working On:** Master's of Science in Data Analytics (50%)
 * 🤍 **IDE:** vim
 * ⌨️ **Languages:** `Python`, `R`, `SQL`
 * ⏱ **Studying:** Data Mining
