@@ -13,5 +13,5 @@ I'm still learning.
 * 💭 **Thinking About:** web3
 
 #### Reach Me
-* LinkedIn: [lmcutting]() 🚧 Still Under Construction 🚧
+* LinkedIn: [lmcutting](https://www.linkedin.com/in/lmcutting)
 * E-mail: [lmcutting](mailto:lmcutting@gmail.com?subject=[GitHub]%20Let's%20Chat)
