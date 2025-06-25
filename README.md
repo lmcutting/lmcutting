@@ -7,10 +7,10 @@
 I'm still learning.
 
 #### About Me
-* 🖋 **Working On:** Launch School (0%) Master's of Science in Data Analytics (90%)
+* 🖋 **Working On:** Launch School (0%), Master's of Science in Data Analytics (90%)
 * ⌨️ **Languages:** `JavaScript`, `HTML`, `CSS`, `Python`, `R`, `SQL`
-* ⏱ **Studying:** Fullstack Web Development & SQL
-* 💭 **Thinking About:** web3
+* ⏱ **Studying:** Fundamenals
+* 💭 **Thinking About:** Mastery
 
 #### Reach Me
 * LinkedIn: [lmcutting](https://www.linkedin.com/in/lmcutting)
