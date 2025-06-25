@@ -7,7 +7,7 @@
 I'm still learning.
 
 #### About Me
-* 🖋 **Working On:** Master's of Science in Data Analytics (65%)
+* 🖋 **Working On:** Launch School (0%) Master's of Science in Data Analytics (90%)
 * ⌨️ **Languages:** `JavaScript`, `HTML`, `CSS`, `Python`, `R`, `SQL`
 * ⏱ **Studying:** Fullstack Web Development & SQL
 * 💭 **Thinking About:** web3
