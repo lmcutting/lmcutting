@@ -13,5 +13,4 @@ I'm still learning.
 * 💭 **Thinking About:** Mastery
 
 #### Reach Me
-* LinkedIn: [lmcutting](https://www.linkedin.com/in/lmcutting)
 * E-mail: [lmcutting](mailto:lmcutting@gmail.com?subject=[GitHub]%20Let's%20Chat)
